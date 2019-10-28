@@ -10,7 +10,7 @@ The minimum requirements are the following:
 
 1. When the app is launched, a home activity (please name it MainActivity) must be presented. The MainActivity must have a BottomNavigation component hosting 2 fragments.
 
-2. The first fragment must present a Google Map (please name it MapFragment), showing the user's current location and a functional My Location button.
+2. The first fragment must present a Google Map (please name it MapFragment), showing the user's current location and a functional My Location button that centers the map on the user's location.
 
 3. The second fragment must present a list (please name it ListFragment) of the top 25 places that are located in a 100 meter radius around the user's current location. Make a request to the Google Places API with the user's latitude and longitude coordinates to obtain the places in JSON format and process the received JSON response to populate the list. The list must show an image, use async or lazy loading to load images and places as the list scrolls down. Each row must have the place's name as a title and its street address as as subtitle. For the list, you are expected to use a RecyclerView, an adapter and the corresponding XML layout view items, you are expected to use modern techniques for view data binding and the view holder pattern.
 
