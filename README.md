@@ -24,7 +24,7 @@ Extra points will be awarded if you use:
 * You come up with a nice and modern UI/UX, it is recommended you use Material Design.
 * You use Test Driven Development and implement test for your code.
 
-##Deadline
+## Deadline
 
 You'll have 5 hours to complete this challenge. The clock starts ticking from the moment you receive access to this repository. If you finish it sooner... hey!, extra points!
 
