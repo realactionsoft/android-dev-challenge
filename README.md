@@ -1,6 +1,6 @@
 # Android Development Challenge
 
-A fun 5 hour challenge for candidates interviewing for a junior to mid-level Android Developer position.
+A fun 3 hour challenge for candidates interviewing for a junior to mid-level Android Developer position.
 
 ## Instructions
 
