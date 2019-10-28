@@ -1,6 +1,6 @@
 # Android Development Challenge
 
-A fun 3 hour challenge for candidates interviewing for a junior to mid-level Android Developer position.
+A fun 6 hour challenge for candidates interviewing for a junior to mid-level Android Developer position.
 
 ## Instructions
 
@@ -26,7 +26,7 @@ Extra points will be awarded if you use:
 
 ## Deadline
 
-You'll have 3 hours to complete this challenge. The clock starts ticking from the moment you receive access to this repository. If you finish it sooner... hey!, extra points!
+You'll have 6 hours to complete this challenge. The clock starts ticking from the moment you receive access to this repository. If you finish it sooner... hey!, extra points!
 
 **Please be sure to only work in the branch named with your git username. Do not push any changes directly to the master branch.**
 
