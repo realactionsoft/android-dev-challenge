@@ -2,7 +2,7 @@
 
 A fun 5 hour challenge for candidates interviewing for a junior to mid-level Android Developer position.
 
-##Instructions
+## Instructions
 
 Using the latest version of Android Studio and the Kotlin programming language, create an Android application compatible with Android OS API level 21 and later.
 
@@ -31,12 +31,12 @@ You'll have 5 hours to complete this challenge. The clock starts ticking from th
 **Please be sure to only work in the branch named with your git username. Do not push any changes directly to the master branch.**
 
 
-##Additional Information
+## Additional Information
 
 Please add any additional information on how to run the project or any additional comments to the file called README_CANDIDATE.md.
 
 
-##Third Party APIs Documentation
+## Third Party APIs Documentation
 
 * Google Maps API for Android: https://developers.google.com/maps/documentation/android-sdk/intro
 
@@ -46,7 +46,7 @@ Please add any additional information on how to run the project or any additiona
 
 
 
-##Tools
+## Tools
 
 * https://developer.android.com/studio
 
